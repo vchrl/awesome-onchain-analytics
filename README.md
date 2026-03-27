@@ -63,3 +63,6 @@
 * [Glass Node](https://www.glassnode.com)
 * [Messari](https://www.messari.io)
 * [The Graph](https://thegraph.com)
+
+## Jobs & Careers
+* [Web3 Data Jobs](https://unchaindata.xyz/jobs) - Job board for crypto data and analytics roles in Web3: data analysts, engineers, scientists.
